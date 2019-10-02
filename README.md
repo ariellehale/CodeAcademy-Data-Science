@@ -7,9 +7,9 @@
 Every company is searching for data-driven decision makers, and this path will teach you the skills you need to become just that. You'll learn to manipulate data with SQL and Python, the foundational languages of data science and analytics. Along the way, you'll complete real-world projects like analyzing a sales funnel and building a Machine Learning powered recommendation engine.
 
 ## What You’ll Learn:
-* ~~The Importance of Data and SQL Basics
-* ~~SQL: Basics
-* ~~SQL: Intermediate
+* ~~The Importance of Data and SQL Basics~~
+* ~~SQL: Basics~~
+* ~~SQL: Intermediate~~
 * Go Off-Platform with SQL
 * Analyze Real Data with SQL
 * Python Functions and Logic
