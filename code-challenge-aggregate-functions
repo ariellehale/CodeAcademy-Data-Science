@@ -53,7 +53,7 @@ SELECT AVG(amount)
 FROM payments
 WHERE status = 'paid';
 
--- Of all the events in the watch_history table, what is the duration of the longest individual watch event? What is the duration of the shortest? Use one query and rename the results to max and min.
+-- Code Challenge 9: Of all the events in the watch_history table, what is the duration of the longest individual watch event? What is the duration of the shortest? Use one query and rename the results to max and min.
 
 SELECT MAX(watch_duration_in_minutes), MIN(watch_duration_in_minutes)
 FROM watch_history;
