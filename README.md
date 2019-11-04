@@ -10,7 +10,7 @@ Every company is searching for data-driven decision makers, and this path will t
 * ~~The Importance of Data and SQL Basics~~
 * ~~SQL: Basics~~
 * ~~SQL: Intermediate~~
-* Go Off-Platform with SQL
+* ~~Go Off-Platform with SQL~~
 * Analyze Real Data with SQL
 * Python Functions and Logic
 * Python Lists and Loops
